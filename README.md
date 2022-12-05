@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Stockholm, Sweden - but I'm willing to relocate <br>🤝 I'm open to collaborate and continue learning <br>💬 Ask me about my career change and anything else you would like to know<br>👩‍💻 I'm currently learning backend and my studies are done in the beginning of Februari 2023
+🌍 I'm based in Stockholm, Sweden - but I'm willing to relocate <br>🤝 I'm open to collaborate and continue learning <br>💬 Ask me about my career change and anything else you would like to know<br>👩‍💻 I'm currently learning backend and my studies are done in the beginning of Februari 2023 <br>💼 My portfolio: <a href="https://sarahkneedler-portfolio.netlify.app/">Sarah Kneedler - Portfolio</a>
 
 
 ## 🌐 Socials:
